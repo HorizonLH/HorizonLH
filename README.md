@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HorizonLH
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ---> email: lhm49869999@163.com
 
 <!---
